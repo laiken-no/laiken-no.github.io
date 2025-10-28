@@ -1,0 +1,88 @@
+@font-face {
+    font-family: "Roboto";
+    src:
+      url("file:///Users/leoncd/laiken-no.github.io/src/RobotoCondensed-VariableFont_wght.woff2"),
+      url("file:///Users/leoncd/laiken-no.github.io/src/RobotoCondensed-Italic-VariableFont_wght.woff2");
+}
+html {
+    font-family: "Roboto";
+    font-size: 100%; /* relative values */
+    height: 100%; /* use the whole viewport */
+    width: 100%;
+    display: flex;
+    background-color: #fffff8;
+}
+body {
+    min-height: 100%;  /* use the whole viewport */
+    width: 100%
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.wrapper > * {
+  padding: 20px;
+}
+.page-main {
+  flex-grow: 1;
+}
+.page-footer {
+    color: black;
+    font-size: 1rem;
+}
+header, footer {
+    background: #fafae6;
+}
+article {
+    display: block;
+    min-height: 40%;
+    padding: 10px;
+    margin: 20px;
+    background: white;
+    border: solid;
+    border-radius: 20px;
+    border-color: #cfbebc;
+}
+h1 {
+    text-align: left;
+    color: black;
+    line-height: 60%;
+    font-size: 3rem
+}
+h2 {
+    color: black;
+    font-size: 2rem;
+}
+h3 {
+    color: black;
+    font-style: italic;
+    font-size: 1.5rem;
+}
+/* don't underline the link text */
+a {
+    color: black;
+}
+.page-header a:link {
+    text-decoration: none;
+}
+.page-header a:visited {
+    text-decoration: none;
+}
+.page-header a:active {
+    text-decoration: none;
+}
+.menu a:link {
+    text-decoration: none;
+}
+.heading a:link {
+    text-decoration: none;
+}
+p {
+    display: block;
+    font-size: 1.5rem;
+    color: black;
+}
+ul {
+    font-size: 1.5rem;
+}
