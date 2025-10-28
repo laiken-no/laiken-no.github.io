@@ -81,5 +81,6 @@ Participants are given the opportunity to offer their own reflections. A general
 
 * arm balance requires dedicated and continuous practice to build strength and technique
 * arm balance is fun, intense, exiting, uplifting
+* can contribute to enhancing concentration
 * can be a source of frustration due to the difficulty
 * should therefore be used with an accepting attitude, and in the right amount, so it does not compromise the entire practice
