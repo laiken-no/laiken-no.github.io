@@ -21,18 +21,18 @@ Each part ends off with reflection on the experience, and with suggestions on wh
 
 ### 1. Pushing forward
 
-Preparatory:
-
-* Plank
-* Chaturanga
-* Scapular pushups
-
 Arm balance:
 
 * Crow
 * Side crow
 * Peacock
 * Flying splits
+
+Preparation:
+
+* Plank
+* Chaturanga
+* Scapular pushups
 
 Applications:
 
@@ -43,15 +43,16 @@ Applications:
 
 ### 2. Pushing down
 
-Preparatory:
+Arm balance:
+
+* L-sit, and variations
+
+Preparation:
 
 * Standing leg lift
 * Upward dog
 * Boat
-
-Arm balance:
-
-* L-sit, and variations
+* Seated leg lift
 
 Applications:
 
@@ -60,14 +61,14 @@ Applications:
 
 ### 3. Pushing up
 
-Preparatory:
-
-* Downward dog
-* Dolphin
-
 Arm balance:
 
 * Handstand
+
+Preparation:
+
+* Downward dog
+* Dolphin
 
 Applications:
 
@@ -80,6 +81,7 @@ Applications:
 Participants are given the opportunity to offer their own reflections. A general reflection mentions:
 
 * arm balance requires dedicated and continuous practice to build strength and technique
+* transition from downward dog to chaturanga to upward dog and back as a solid method for building strength
 * arm balance is fun, intense, exiting, uplifting
 * can contribute to enhancing concentration
 * can be a source of frustration due to the difficulty
