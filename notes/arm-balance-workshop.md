@@ -3,7 +3,7 @@
 
 _Leon du Toit_, `dutoit.leon@gmail.com`
 
-Purpose:
+## Purpose
 
 * gain experience with a variety of arm balance poses encountered in yoga
 * understand of how to execute and progress in each of these poses
@@ -20,140 +20,164 @@ Warm-up: wrists
 ### Crow
 
 Preparation:
-  * scapular push-ups (on knees, in plank)
-  * leaning forward in plank
+
+* scapular push-ups (on knees, in plank)
+* leaning forward in plank
 
 Cues:
-  * push from the shoulder blades
-  * slowly lift the toes off the floor
+
+* push from the shoulder blades
+* slowly lift the toes off the floor
 
 Progression:
-  * lean against a wall
-  * straighten arms
-  * move knees up on the arms
-  * take knees off the arms, tuck into the body
-  * straighten back
+
+* lean against a wall
+* straighten arms
+* move knees up on the arms
+* take knees off the arms, tuck into the body
+* straighten back
 
 Application:
-  * during vinyasa, before jumping back
+
+* during vinyasa, before jumping back
 
 ### Side crow
 
 Preparation:
-  * chaturanga
-  * mobility: dandasana with forward-bend and twist
+
+* Chaturanga
+* mobility: Dandasana with forward-bend and twist
 
 Cues:
-  * foot gaze to the side
-  * slight push up, active fingers
+
+* foot gaze to the side
+* slight push up, active fingers
 
 Progression:
-  * lean hip onto the elbow
-  * soften the lean onto the elbow
-  * start with bent knees
-  * straighten knees
-  * lift the upper leg
+
+* lean hip onto the elbow
+* soften the lean onto the elbow
+* start with bent knees
+* straighten knees
+* lift the upper leg
 
 Application:
-  * transition from padottanasana, and rotated extended side-angle
+
+* transition from Padottanasana, and rotated extended side-angle
 
 ### Flying splits
 
 Preparation:
-  * chaturanga, with a knee over the elbow
-  * mobility: extended hand-to-big-toe pose
+
+* Chaturanga, with a knee over the elbow
+* mobility: extended hand-to-big-toe pose
 
 Cues:
-  * foot gaze to the side
-  * tension in the back leg: straighten the body
-  * chest out
+
+* foot gaze to the side
+* tension in the back leg: straighten the body
+* chest out
 
 Progression:
-  * straighten leg
-  * move elbow out from under the hip
+
+* straighten leg
+* move elbow out from under the hip
 
 Application:
-  * transition from warrior, extended side-angle, downward-dog
+
+* transition from warrior, extended side-angle, downward-dog
 
 ### Peacock
 
 Preparation:
-  * prone boat (salabhasana)
+
+* prone boat (Salabhasana)
 
 Cues:
-  * keep breathing
-  * press arms into the side (activate pectorial muscles)
-  * lean forward
-  * tension in the whole body, very active legs
-  * third-eye gaze
+
+* keep breathing!
+* press arms into the side (activate pectorial muscles)
+* lean forward
+* tension in the whole body, very active legs
+* third-eye gaze
 
 Progression:
-  * less weight on the toes
-  * lift the toes off the floor
-  * one-arm peacock
+
+* less weight on the toes
+* lift the toes off the floor
+* one-arm peacock
 
 Application:
-  * transition from downward-dog
-  * strengthens the diaphragm, develop intra-abdominal pressure - core stability
+
+* transition from downward-dog
+* strengthens the diaphragm, develop intra-abdominal pressure - core stability
 
 ## 2. Pushing down
 
 ### L-sit
 
 Preparation:
-  * Hip flexors, quadraceps:
-    * Standing leg lift
-    * Boat
-    * Seated leg lift
-  * Upward dog - shoulder depression
+
+* hip flexors, quadraceps:
+  * standing leg lift
+  * boat
+  * seated leg lift
+* upward dog - shoulder depression
 
 Cues:
-  * lean back
+
+* lean back
 
 Progression:
-  * use blocks (arm vs. upper body length matters)
-  * Lolasana (bent and cross legs)
-  * straighten legs
-  * lift feet to the ceiling (v-sit)
-  * jump into, jump back
+
+* use blocks (arm vs. upper body length matters)
+* Lolasana (bent and cross legs)
+* straighten legs
+* lift feet to the ceiling (v-sit)
+* jump into, jump back
 
 Application:
-  * from dandasana
-  * in between navasana
+
+* from Dandasana
+* in between Navasana (boat)
 
 ## 3. Pushing up
 
 ### Handstand
 
 Preparation:
-  * feeling (proprioception):
-    * lying on the back/front, arms extended overhead: full body tension
-  * mobility: overhead extension
-    * downward dog
-    * dolphin
-    * bridge
-    * dancer/pigeon
-  * working on the fear-of-falling
-    * cartwheels
-  * kicking up: against a wall, choose a front foot (dominant jumping foot)
+
+* feeling (proprioception):
+  * lying on the back/front, arms extended overhead: full body tension
+* mobility: overhead extension
+  * downward dog
+  * dolphin
+  * bridge
+  * dancer/pigeon
+* working on the fear-of-falling
+  * cartwheels
+* kicking up: against a wall, choose a front foot (dominant jumping foot)
 
 Cues:
-  * point the toes: create tension in the legs
-  * squeeze legs together
-  * third-eye gaze to the floor (avoid "lifting" the head)
-  * active fingers
-  * use tension in the front and back of the body to pull yourself into balance
-  * straight arms
+
+* point the toes: create tension in the legs
+* squeeze legs together
+* third-eye gaze to the floor (avoid "lifting" the head)
+* active fingers
+* use tension in the front and back of the body to pull yourself into balance
+* straight arms
 
 Progression:
-  * straddle
-  * press to handstand
-  * lower into crow or flying splits
+
+* straddle
+* press to handstand
+* lower into crow or flying splits
 
 Application:
-  * As a transition between left- and right-hand-side poses, e.g.:
-    * warrior to warror
-    * half-moon to half-moon (yoga cartwheel)
+
+* As a transition between left- and right-hand-side poses, e.g.:
+  * warrior to warror
+  * half-moon to half-moon (yoga cartwheel)
 
 # Reflections
 
